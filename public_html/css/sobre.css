@@ -1,0 +1,62 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27/02/2020, 21:40:19
+    Author     : juliano.scastro
+    Mudar fonte da legendas das imagens
+*/
+
+
+
+body{
+    font-family: "Arial", "Helvetica", sans-serif;
+    color: #333333;
+    font-family: "lucida Sans Unicode", "Lucida Grande", sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 940px;
+
+}
+
+h1{
+    background-image: url(../img/Fotos/sobre-background.jpg);
+    padding-top: 10px;
+}
+
+h2{
+    border-bottom: 2px solid #333333;
+    margin-top: 30px;
+}
+
+#h2Historia{
+    
+}
+
+#h2Diferenciais{
+    
+}
+
+
+p{
+    padding: 0 45px;
+    text-indent: 15px;
+}
+
+
+figure {
+    background-color: #F2EDED;
+    border: 1px solid #ccc;
+    text-align: center;
+     padding: 15px;
+     margin: 30px;
+}
+
+
+figcaption {
+    font-style: italic;
+    margin-top: 10px;
+}
+
