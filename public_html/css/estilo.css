@@ -1,0 +1,32 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12/03/2020, 22:01:07
+    Author     : juliano.scastro
+*/
+
+.sacola{
+    background-image: url(../img/Fotos/sacola.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    font-size: 14px;
+    padding-right: 35px;
+    text-align: right;
+    width: 140px;
+}
+
+.menu-opcoes ul{
+    font-size: 15px;
+}
+
+.menu-opcoes a{
+    color: #003366;
+}
+
+body{
+    color: #333333;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
