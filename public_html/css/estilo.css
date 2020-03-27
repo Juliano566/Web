@@ -14,8 +14,12 @@ and open the template in the editor.
     background-position: top right;
     font-size: 14px;
     padding-right: 35px;
+    padding-top: 8px;
     text-align: right;
     width: 140px;
+    position: absolute;
+    top: 0;
+    right: 0;
 }
 
 .menu-opcoes ul{
@@ -29,4 +33,25 @@ and open the template in the editor.
 body{
     color: #333333;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+
+.menu-opcoes ul li{
+    display: inline;
+    margin-left: 20px;
+}
+
+.container{
+    margin: 0 auto;
+    width: 940px;
+}
+
+header{
+    position: relative;
+}
+
+.menu-opcoes{
+    position: absolute;
+    bottom: 0;
+    right: 0;
 }
